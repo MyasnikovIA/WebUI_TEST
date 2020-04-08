@@ -4,4 +4,4 @@
 
 Лицензия MIT
 
- <img src="https://github.com/MyasnikovIA/WebUI_TEST/img/blob/master/scr.png?raw=true"/>
+ <img src="https://github.com/MyasnikovIA/WebUI_TEST/blob/master/img/scr.png?raw=true"/>
